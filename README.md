@@ -74,7 +74,7 @@ Além disso, destaca o **potencial das redes neurais LSTM** como alternativas ro
 ## 📬 Contato
 
 Para dúvidas ou colaborações:
-
-- elisangelalizzi@utfpr.edu.br  
+- elisangelalizzi@utfpr.edu.br
+- claudiastoeglehner@hotmail.com
 - [LinkedIn da professora Elisângela Lizzi](https://www.linkedin.com/in/elisangelalizzi)
 
