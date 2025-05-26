@@ -55,6 +55,10 @@ Além disso, destaca o **potencial das redes neurais LSTM** como alternativas ro
 
 ## 🛠️ Tecnologias utilizadas
 
+- R code
+- TSA package, `dlpyr`, `ggplot2`
+  
+
 - Python
   - `statsmodels`, `pandas`, `numpy`, `scikit-learn`, `matplotlib`
   - `TensorFlow` / `Keras` para construção do modelo LSTM
